@@ -5,4 +5,4 @@
 2. In the second task [pytorch-classifier](https://github.com/olexsahka/getting-to-know-pytorch-lesson2/blob/master/pytorch-classifier.ipynb), we can predict points in 2dplace, with 2 parametrs muzzle width and color tone of the creature
 ![df](df.png)
 3. In the third task[pytorch-classifier2](https://github.com/olexsahka/getting-to-know-pytorch-lesson2/blob/master/pytorch-classifier2.ipynb )  we  can predict on 3 classes
-![df](Без названия (1).png)
+![df](rg.png)
